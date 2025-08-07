@@ -2,6 +2,10 @@ import Link from 'next/link'
 import { Button } from '@/components/ui/button'
 import { ArrowRight, Users, Target } from 'lucide-react'
 
+/*
+Hollooo
+*/
+
 export function Hero() {
   return (
     <section className="bg-gradient-to-br from-blue-50 to-indigo-100 py-20">
